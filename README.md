@@ -5,7 +5,7 @@
 📧 paramapon.nu15@gmail.com  
 📞 095-260-5516
 
-![image](image/Resume_profile.JPG)
+![image](image/Resume_profile.jpg)
 ---
 
 ## 🎯 Profile  
