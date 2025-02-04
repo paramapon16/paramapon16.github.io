@@ -14,7 +14,7 @@ Hardworking Financial and Investment student from Kasetsart University, Si Racha
 
 ## 🎓 Education  
 **Faculty of Management Science, Kasetsart University**  
-🎓 Major: Finance and Investment    
+Major: Finance and Investment    
 
 ---
 
