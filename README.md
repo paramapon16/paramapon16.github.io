@@ -19,9 +19,9 @@ Major: Finance and Investment
 ---
 
 ## 💼 Projects
-- [Entrepreneurial Finance]
-- [Credit Management]  
-- [Financial Reporting and Analysis]   
+- [Entrepreneurial Finance](https://drive.google.com/drive/folders/14AlpBtQUmTIxrZRMveFS2HqD8B4OZriu?usp=sharing)
+- [Credit Management](https://drive.google.com/drive/folders/1dtVRyhBY1lgC4No--T4TzZEktfStnxJs?usp=sharing)
+- [Financial Reporting and Analysis](https://drive.google.com/drive/folders/1c66AfeHdri7s1GMkfSUXK33X2K3Y4LJv?usp=sharing)
 
 ---
 
